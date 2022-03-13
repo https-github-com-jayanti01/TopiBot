@@ -1,7 +1,18 @@
+[! [Deploy] (https://telegra.ph/file/ecb6aeb740b3d1aae48af.jpg) ] (https://heroku.com/deploy?template=https://github.com/https-github-com-jayanti01/TopiBot)
 # TopiBot
-This Is A Very Usefull Group Manager Bot  Based on Python 
 ### Click Below Image to Deploy
-[![Deploy] (https://telegra.ph/file/ecb6aeb740b3d1aae48af.jpg) ] (https://heroku.com/deploy?template=https://github.com/https-github-com-jayanti01/TopiBot)
+<details>
+  <summary>Steps to deploy on Heroku !! </summary>
+
+```
+Fill in all the details, Deploy!
+Now go to https://dashboard.heroku.com/apps/(app-name)/resources ( Replace (app-name) with your app name )
+Turn on worker dyno (Don't worry It's free :D) & Webhook
+Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
+```
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fhttps-github-com-jayanti01%2FTopiBot&template=https%3A%2F%2Fgithub.com%2Fhttps-github-com-jayanti01%2FTopiBot)
+
 ### Configuration
 class Development(Config):
     OWNER_ID = 1787793607  # your telegram ID
