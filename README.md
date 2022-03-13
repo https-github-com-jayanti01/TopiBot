@@ -1,8 +1,8 @@
-<img scr = "https://telegra.ph/file/ecb6aeb740b3d1aae48af.jpg" >
+<img scr = "https://telegra.ph/file/ecb6aeb740b3d1aae48af.jpg">
 # TopiBot
 ### Click Below Image to Deploy
 <details>
-  <summary>Steps to deploy on Heroku !! </summary>
+  <summary>Steps to deplo on Heroku !! </summary>
 
 ```
 Fill in all the details, Deploy!
