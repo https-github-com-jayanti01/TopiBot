@@ -1,4 +1,4 @@
-[! [Deploy] (https://telegra.ph/file/ecb6aeb740b3d1aae48af.jpg) ] (https://heroku.com/deploy?template=https://github.com/https-github-com-jayanti01/TopiBot.git)
+<img scr = "https://telegra.ph/file/ecb6aeb740b3d1aae48af.jpg" >
 # TopiBot
 ### Click Below Image to Deploy
 <details>
